@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 🎯 I’m experienced working with:
 
-**Java, Spring Boot, Microservice, Kafka, AWS**
+**Java, Spring Boot, Microservice, Kafka, CI/CD, AWS**
 
 
 ✨ I also enjoy:
