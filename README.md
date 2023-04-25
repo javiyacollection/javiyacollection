@@ -8,7 +8,7 @@ I enjoy learning from others and sharing my experiences with colleagues to grow 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting beetter at Leadership, Architecture while staying always in touch with ☕Java☕
+- 🔭 I’m currently working on getting beetter at Leadership, System Architecture while staying always in touch with ☕Java☕
 - 🌱 I’m looking for opportunities to grow towards Leadership Engineering, complex system designing
 - 👯 I’m open to collaborate on NGO and teaching / coaching projects
 - ⚡ Fun fact I've been blogging about travels for more than 10 years
