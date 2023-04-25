@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ✨ I also enjoy:
 
-**Lambda, Serverless Programming, Frontend technology**
+**Lambda, Serverless Programming, Frontend Technology**
 
 
 💬 And feel comfortable with:
